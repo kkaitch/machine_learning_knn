@@ -4,9 +4,9 @@ This project is to apply k-nearest neighbors and cross-validation to tackle the 
 ## Introduction
 This project has three parts:
 
-• Part I: Experimental Setup
-• Part II: Nearest Neighbor and Cross-Validation
-• Part III: Overfitting in Model Selection and Nested Cross Validation
+* Part I: Experimental Setup
+* Part II: Nearest Neighbor and Cross-Validation
+* Part III: Overfitting in Model Selection and Nested Cross Validation
 
 For part I and II we will consider a regression problem. For these first two parts, we will be working with a modified version of the California Housing Dataset (cal_housing_data_clean.csv).
 For part III we will consider a classification problem. We will not be using the California Housing Dataset but rather synthetic data that we generate.
